@@ -1,13 +1,13 @@
 # Site settings
-title:       Brown Theory Seminar
-author:      D Ellis Hershkowitz
+title:       Brown Quantum Initiative
+author:      Alan Bidart
 baseurl:     ""
-url:         "https://dhershko.github.io/"
+url:         "https://www.brownquantuminitiative.com"
 
 header_pages:
   - index.md
 
-keywords: ['Brown', 'Theory', 'Theory Seminar', 'CS', 'computer science', 'talks', 'Brown University']
+keywords: ['Brown', 'Quantum', 'Quantum Computing', 'CS', 'computer science', 'talks', 'Brown University', 'Information Science', "Quantum Information", "Chemistry", "Physics", "Quantum Mechanics"]
 
 # katex
 katex:
@@ -37,5 +37,6 @@ exclude:
   - Gemfile.lock
   - vendor
   - CNAME
+  - node_modules
 
 
