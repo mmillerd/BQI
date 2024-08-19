@@ -1,0 +1,41 @@
+# Site settings
+title:       Brown Theory Seminar
+author:      D Ellis Hershkowitz
+baseurl:     ""
+url:         "https://dhershko.github.io/"
+
+header_pages:
+  - index.md
+
+keywords: ['Brown', 'Theory', 'Theory Seminar', 'CS', 'computer science', 'talks', 'Brown University']
+
+# katex
+katex:
+  rendering_options:
+    # Default KaTeX rendering options. See https://github.com/Khan/KaTeX#rendering-options
+    throw_error: true                       # throwOnError - set to false if you want rendering to output error as text rather than a build error
+    error_color: "#cc0000" 
+    delimiters: [
+              {left: "$$", right: "$$", display: true},
+            {left: "$", right: "$", display: false}]
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data', 'strikethrough']
+permalink:    pretty
+sass:
+  style: compressed
+  sass_dir: ./_sass
+plugins:
+  - jekyll-sitemap
+  - jekyll-last-modified-at
+  - jekyll-paginate
+  - jekyll-katex
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - CNAME
+
+

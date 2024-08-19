@@ -1,0 +1,19 @@
+<html>
+{% include header.html %}
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/css/seminar.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  </head>
+  <body>
+    <div class="wrapper">
+      <section>{{content}}</section>
+    </div>
+  </body>
+  <div class="footer">
+    {% include footer.html %}
+  </div>
+</html>
+
+<!-- Gets latex to render -->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
