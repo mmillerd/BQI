@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 4.1.1"
+# gem "jekyll", "~> 4.1.1"
+gem "jekyll", "~> 4.3.3"
 # gem "jekyll", "~> 3.9.0"
 # gem "rouge"
 
