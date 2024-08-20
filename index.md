@@ -38,4 +38,6 @@ The Fall 2024 BQI communications and events are led by:
   <div class="column"><img src="/images/lindsey.jpeg" style="height: 7em"/>
         <p><a href="https://www.linkedin.com/in/lindseytensen/">Lindsey Tensen</a><br>Physics</p></div>
   <div class="column"><img src="/images/alex.jpeg" style="height: 7em"/><p>Alex Narkiewicz-Jodko<br>Chemistry</p></div>
+    <div class="column"><img src="/images/alex_b.jpeg" style="height: 7em"/>
+        <p><a href="https://www.linkedin.com/in/alex-buzzi-04842757/">Alex Buzzi</a><br>Physics</p></div>
 </div>
