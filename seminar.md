@@ -13,11 +13,12 @@ permalink: /seminar
 </div>
 
 <div>    <div class="row">
-        <div class="column"><img src="/images/brown_logo.png" style="height: 7em"/>
+        <div class="column"><img src="/images/brown_logo.png" style="height: 8em"/>
             <p><a href="https://www.brown.edu">Brown University</a></p></div>
-        <div class="column"><img src="/images/circle_logo.png" style="height: 7em"/>
+        <div class="column"><img src="/images/circle_logo.png" style="height: 8em"/>
 <p><a href="/">Brown Quantum Initiative</a></p></div>
     </div></div>
+<hr>
 
 **The Interdisciplinary Quantum Seminar is a weekly seminar run by the** [Brown Quantum Initiative](/) **(BQI) with the support of several Departments at Brown University.** 
 The seminar is focused on inviting Brown and external speakers who work across the many fields that intersect in Quantum Science and Engineering.
