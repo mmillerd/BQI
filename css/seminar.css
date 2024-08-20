@@ -246,10 +246,10 @@ hr {
   }
 }
 
-body {
-  text-align: justify;
+div, section, article {
+  text-align: justify; /* Justifies all general text elements */
 }
 
-/*div, section, article, h1, h2, h3, h4, h5, h6 {*/
-/*  text-align: justify;*/
-/*}*/
+h1, h2, h3, h4, h5, h6 {
+  text-align: left; /* Ensure headings are left-aligned */
+}
