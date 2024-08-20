@@ -38,5 +38,6 @@ exclude:
   - vendor
   - CNAME
   - node_modules
+  - dev
 
 
