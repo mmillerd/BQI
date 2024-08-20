@@ -9,7 +9,7 @@ permalink: /
     Brown University Quantum Initiative
     </h1>
       </a>
-  <img src="/images/circle_logo.png" style="height: 7em">
+  <img src="/images/brown_qi.png" style="height: 7em">
   <p><em>Welcome, we are now entangled!</em> </p>
 </div>
 
