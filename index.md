@@ -13,6 +13,7 @@ permalink: /
   <p><em>Welcome, we are now entangled!</em> </p>
 </div>
 
+
 **The Brown Quantum Initiative (BQI) is the hub for Quantum Science and Engineering research at Brown.** 
 We celebrate Brown's cross-disciplinary values by bringing together Faculty, Postdocs, and Graduate Students across several Departments to discuss novel Quantum research and collaborate on challenging academic projects.
 
