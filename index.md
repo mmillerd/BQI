@@ -8,7 +8,10 @@ permalink: /
     <h1>
     Brown University Quantum Initiative
     </h1>
-      </a>
+</a>
+</div>
+<hr>
+<div class="header">
   <img src="/images/brown_qi.png" style="width: 85%; height: auto;">
   <p><em>Welcome, we are now entangled!</em> </p>
 </div>

@@ -11,7 +11,7 @@ permalink: /seminar
       </a>
 
 </div>
-
+<hr>
 <div>    <div class="row">
         <div class="column"><img src="/images/brown_logo.png" style="height: 8em"/>
             <p><a href="https://www.brown.edu">Brown University</a></p></div>
