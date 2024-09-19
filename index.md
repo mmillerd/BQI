@@ -20,6 +20,10 @@ permalink: /
 **The Brown Quantum Initiative (BQI) is the hub for Quantum Science and Engineering research at Brown.** 
 We celebrate Brown's cross-disciplinary values by bringing together Faculty, Postdocs, and Graduate Students across several Departments to discuss novel Quantum research and collaborate on challenging academic projects.
 
+<h3>Brown Qiskit Fest Fall 2024</h3>
+This semester, we are proud to working with IBM and QC@Brown on hosting Qiskit Fest Fall 2024, a gathering of Brown students who are curious about or interested in quantum computing.
+Learn more about what we are doing by visiting [the official site!](/qiskit)
+
 <h3>Brown Interdisciplinary Quantum Seminar Series</h3>
 We are responsible for the weekly Brown Interdisciplinary Quantum Seminar Series. 
 Each seminar features a Brown or external speakers working on at least one of the many fields that intersect in Quantum Science and Engineering. 
