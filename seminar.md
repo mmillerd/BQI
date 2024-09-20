@@ -41,9 +41,7 @@ Some previous talks can also be found in [our YouTube channel](https://www.youtu
 | Date | Speaker | Title | Abstract  | Recording|
 |-------|--------|--------|------ |
 | July 9 (Tue)     | Jacob Barandes | Quantum Theory & Indivisible Stochastic Processes | <details> The notion of an ‘indivisible’ stochastic process, which generalizes the textbook non-Markovian case, appeared only recently in the research literature. In this talk, I will explain how any quantum system can be understood as an indivisible stochastic process unfolding on an old-fashioned configuration space, without a fundamental role for Hilbert spaces or wave functions. On the one hand, this connection demystifies and deflates many of the exotic features of quantum systems, like interference, superposition, decoherence, entanglement, and noncommutative measurement outcomes. On the other hand, this stochastic-quantum correspondence opens up new possibilities for modeling non-Markovian stochastic processes efficiently on quantum hardware. I will also explain how this correspondence leads to a new microphysical definition of causal influences, which can be used to challenge the premises of various no-go theorems, including Bell’s theorem, with potentially significant consequences for locality and local causality. </details>     |[Talk](https://www.youtube.com/watch?v=IBP1oxHxnpk)|
-| September 18 (Wed)     | Speaker TBD | Title TBD | <details> Abstract TBD </details>     | |
-| October 2 (Wed)     | Speaker TBD | Title TBD | <details> Abstract TBD </details>     | |
-| October 16 (Wed)     |Speaker TBD   | Title TBD|   <details> Abstract TBD </details>  | |
+| October 16 (Wed)     |  Yusong Bai  | Title TBD|   <details> Abstract TBD </details>  | |
 | October 30 (Wed)     | Speaker TBD  | Title TBD|    <details> Abstract TBD </details> | |
 | November 13 (Wed)     | Speaker TBD | Title TBD|   <details> Abstract TBD </details> | |
 | November 27 (Wed)     <br> **No seminar**|   |  |      | |

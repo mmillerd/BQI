@@ -52,7 +52,7 @@ In the afternoon, attendees will **tackle an open-ended challenge in groups**, u
 
 ## (Tentative) Qiskit Fest Schedule
 ---
-**Date**: TBD
+**Date**: Saturday, November 16th
 
 
 
