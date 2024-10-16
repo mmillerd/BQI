@@ -29,7 +29,7 @@ Qiskit Fest will bring together Brown members to explore the latest developments
 
 <h3>Apply to participate</h3>
 Due to high-demand and limited resources, we are forced to set caps on the amount of participants.
-Applications will open soon, please join our mailing to be notified when they come out.
+[Submit your application here!](https://forms.gle/RZ7Yz2iEioVMkBjP9)
 
 <h3>Join the Mailing List</h3>
 We are still working on confirming the date and schedule.
