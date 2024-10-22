@@ -45,5 +45,5 @@ Some previous talks can also be found in [our YouTube channel](https://www.youtu
 | November 1 (Fri)     | Jia Leo Li  |  TBD|    <details>  TBD </details> | |
 | November 15 (Fri)     | Dima Feldman |  TBD|   <details>  TBD </details> | |
 | November 22 (Fri)    |  TBD | TBD |    TBD  | |
-| December 6 (Fri)     |  TBD  |  TBD | <details>  TBD </details>     | |
-| December 13 (Fri)     | Victoria Manfredi  |  TBD | <details>  TBD </details>     | |
+| December 6 (Fri)     |  Victoria Manfredi  |  TBD | <details>  TBD </details>     | |
+| December 13 (Fri)     |  TBD |  TBD | <details>  TBD </details>     | |
