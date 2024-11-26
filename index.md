@@ -38,14 +38,16 @@ The impact of the BQI is possible thanks to the work of several Brown Graduate S
 If you are a Brown Graduate student and would like to learn about how you could contribute to the BQI team and its mission, please reach out to the [BQI via email](mailto:quantum@brown.edu)! 
 
 The Fall 2024 BQI communications and events are led by:
+<p>
+<br>
+</p>
 <div class="row">
-  <div class="column"><img src="/images/alan.jpg" style="height: 7em"/>
-        <p><a href="https://www.linkedin.com/in/alanbidart/">Alan Bidart</a> <br>Chemistry</p></div>
-  <div class="column"><img src="/images/miles.png" style="height: 7em"/>
-        <p><a href="https://www.linkedin.com/in/milesmd/">Miles Miller-Dickson</a><br>EECE</p></div>
-  <div class="column"><img src="/images/lindsey.jpeg" style="height: 7em"/>
-        <p><a href="https://www.linkedin.com/in/lindseytensen/">Lindsey Tensen</a><br>Physics</p></div>
+  <div class="column"><img src="/images/alan.jpg" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alanbidart/">Alan Bidart</a> <br>Chemistry</p></div>
+  <div class="column"><img src="/images/miles.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/milesmd/">Miles Miller-Dickson</a><br>EECE</p></div>
+  <div class="column"><img src="/images/lindsey.jpeg" style="height: 7em"/><p><a href="https://www.linkedin.com/in/lindseytensen/">Lindsey Tensen</a><br>Physics</p></div>
+</div>
+<div class="row">
   <div class="column"><img src="/images/alex.jpeg" style="height: 7em"/><p>Alex Narkiewicz-Jodko<br>Chemistry</p></div>
-    <div class="column"><img src="/images/alex_b.jpeg" style="height: 7em"/>
-        <p><a href="https://www.linkedin.com/in/alex-buzzi-04842757/">Alex Buzzi</a><br>Physics</p></div>
+  <div class="column"><img src="/images/alex_b.jpeg" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alex-buzzi-04842757/">Alex Buzzi</a><br>Physics</p></div>
+  <div class="column"><img src="/images/shawn.jpeg" style="height: 7em"/><p>Shawn Khanna<br>Physics</p></div>
 </div>
