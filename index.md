@@ -23,8 +23,8 @@ We celebrate Brown's cross-disciplinary values by bringing together Faculty, Pos
 <h3>Join the Community</h3>
 To meet other members and receive messages about the latest news on Quantum Science and Engineering at Brown, you can [request to join our Community](https://forms.gle/KyELsPGAGB3uEjc2A). Everyone with a Brown email address is welcome!
 
-<h3>Brown Qiskit Fest Fall 2024</h3>
-This semester, we are proud to working with IBM and QC@Brown on hosting Qiskit Fest Fall 2024, a gathering of Brown students who are curious about or interested in quantum computing.
+<h3>Brown Qiskit Fest Fall 2025</h3>
+This semester, we are proud to working with IBM on hosting Qiskit Fest Fall 2025, a gathering of Brown students who are curious about or interested in quantum computing.
 Learn more about what we are doing by visiting [the official site!](/qiskit)
 
 <h3>Brown Interdisciplinary Quantum Seminar Series</h3>
@@ -37,17 +37,4 @@ Some previous talks can also be found in [our YouTube channel](https://www.youtu
 The impact of the BQI is possible thanks to the work of several Brown Graduate Students. 
 If you are a Brown Graduate student and would like to learn about how you could contribute to the BQI team and its mission, please reach out to the [BQI via email](mailto:quantum@brown.edu)! 
 
-The Fall 2024 BQI communications and events are led by:
-<p>
-<br>
-</p>
-<div class="row">
-  <div class="column"><img src="/images/alan.jpg" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alanbidart/">Alan Bidart</a> <br>Chemistry</p></div>
-  <div class="column"><img src="/images/miles.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/milesmd/">Miles Miller-Dickson</a><br>EECE</p></div>
-  <div class="column"><img src="/images/lindsey.jpeg" style="height: 7em"/><p><a href="https://www.linkedin.com/in/lindseytensen/">Lindsey Tensen</a><br>Physics</p></div>
-</div>
-<div class="row">
-  <div class="column"><img src="/images/alex.jpeg" style="height: 7em"/><p>Alex Narkiewicz-Jodko<br>Chemistry</p></div>
-  <div class="column"><img src="/images/alex_b.jpeg" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alex-buzzi-04842757/">Alex Buzzi</a><br>Physics</p></div>
-  <div class="column"><img src="/images/shawn.jpeg" style="height: 7em"/><p>Shawn Khanna<br>Physics</p></div>
-</div>
+You can check outa full list of the mbers in our current and past leadership teams by visiting out [Team page](/team)

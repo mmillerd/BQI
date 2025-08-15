@@ -22,14 +22,13 @@ permalink: /qiskit
     </div></div>
 <hr>
 
-The Brown Quantum Initiative is proud to work with IBM and QC@Brown to host Qiskit Fest Fall 2024, a gathering of Brown students who are curious about or interested in quantum computing.
+The Brown Quantum Initiative is proud to work with IBM to host Qiskit Fest Fall 2025, a gathering of Brown students who are curious about or interested in quantum computing.
 This event is part of IBM’s global initiative to expand the reach of quantum computing through the open-source Qiskit framework. 
 Qiskit Fest will bring together Brown members to explore the latest developments, breakthroughs, and practical applications of quantum computing.
 **We welcome everyone irrespective of their field of study, programming skills, or quantum experience: if you want to learn more about quantum computing, this event is for you!**
 
 <h3>Apply to participate</h3>
-Due to high-demand and limited resources, we are forced to set caps on the amount of participants.
-[Submit your application here!](https://forms.gle/RZ7Yz2iEioVMkBjP9)
+Applications will be out soon!
 
 <h3>Join the Mailing List</h3>
 We are still working on confirming the date and schedule.
@@ -52,9 +51,7 @@ In the afternoon, attendees will **tackle an open-ended challenge in groups**, u
 
 ## (Tentative) Qiskit Fest Schedule
 ---
-**Date**: Saturday, November 16th
-
-
+**Date**: TBD (Saturday in November) 
 
 | Time | Event | Loation |
 |-------|--------|--------|------ |
