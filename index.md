@@ -37,4 +37,14 @@ Some previous talks can also be found in [our YouTube channel](https://www.youtu
 The impact of the BQI is possible thanks to the work of several Brown Graduate Students. 
 If you are a Brown Graduate student and would like to learn about how you could contribute to the BQI team and its mission, please reach out to the [BQI via email](mailto:quantum@brown.edu)! 
 
-You can check outa full list of the mbers in our current and past leadership teams by visiting out [Team page](/team)
+You can check out a full list of members in our current and past leadership teams by visiting out [Team page](/team).
+
+### Leadership Team (Fall 2026–Spring 2027)
+<!-- <p>
+<br>
+</p> -->
+<div class="row">
+  <div class="column"><img src="/images/alan.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alanbidart/">Alan Bidart</a> </p></div>
+  <div class="column"><img src="/images/alex.jpeg" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alex-narkiewicz-jodko/">Alex Narkiewicz-Jodko</a></p></div>
+  <div class="column"><img src="/images/miles.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/milesmd/">Miles Miller-Dickson</a></p></div>
+</div>
