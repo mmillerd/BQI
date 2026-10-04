@@ -3,14 +3,36 @@ layout: seminar
 permalink: /team
 ---
 
-## Current Team (Fall 2025)
-
+## Current Team (Fall 2026)
 <p>
 <br>
 </p>
 <div class="row">
-  <div class="column"><img src="/images/Alex.png" style="height: 7em"/><p>Alex Narkiewicz-Jodko<br>Director</p></div>
-  <div class="column"><img src="/images/Danny.png" style="height: 7em"/><p>Daniel Chen<br>Director</p></div>
+  <div class="column"><img src="/images/Alex.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alex-narkiewicz-jodko/">Alex Narkiewicz-Jodko</a><br>Director</p></div>
+  <div class="column"><img src="/images/Danny.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/daniel-ts-chen/">Daniel Chen</a><br>Director</p></div>
+  <div class="column"><img src="/images/alan.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alanbidart/">Alan Bidart</a></p></div>
+  <div class="column"><img src="/images/Miles.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/Milesmd/">Miles Miller-Dickson</a><br></p></div>
+</div>
+
+## Previous teams
+### Spring 2026
+<p>
+<br>
+</p>
+<div class="row">
+  <div class="column"><img src="/images/Alex.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alex-narkiewicz-jodko/">Alex Narkiewicz-Jodko</a><br>Director</p></div>
+  <div class="column"><img src="/images/Danny.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/daniel-ts-chen/">Daniel Chen</a><br>Director</p></div>
+  <div class="column"><img src="/images/alan.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alanbidart/">Alan Bidart</a></p></div>
+  <div class="column"><img src="/images/Miles.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/Milesmd/">Miles Miller-Dickson</a><br></p></div>
+</div>
+
+### Fall 2025
+<p>
+<br>
+</p>
+<div class="row">
+  <div class="column"><img src="/images/Alex.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alex-narkiewicz-jodko/">Alex Narkiewicz-Jodko</a><br>Director</p></div>
+  <div class="column"><img src="/images/Danny.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/daniel-ts-chen/">Daniel Chen</a><br>Director</p></div>
   <div class="column"><img src="/images/elene.jpeg" style="height: 7em"/><p>Elene Ivaniashvili<br></p></div>
   <div class="column"><img src="/images/yash.jpeg" style="height: 7em"/><p>Yash Lokare<br></p></div>
 </div>
@@ -21,17 +43,15 @@ permalink: /team
   <div class="column"><img src="/images/Miles.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/Milesmd/">Miles Miller-Dickson</a><br></p></div>
 </div>
 
-## Previous teams
 ### Spring 2025
-
 <p>
 <br>
 </p>
 <div class="row">
   <div class="column"><img src="/images/alan.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alanbidart/">Alan Bidart</a> <br>Director</p></div>
   <div class="column"><img src="/images/Miles.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/Milesmd/">Miles Miller-Dickson</a><br>Director</p></div>
-  <div class="column"><img src="/images/Alex.png" style="height: 7em"/><p>Alex Narkiewicz-Jodko<br></p></div>
-  <div class="column"><img src="/images/Danny.png" style="height: 7em"/><p>Daniel Chen<br></p></div>
+  <div class="column"><img src="/images/Alex.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alex-narkiewicz-jodko/">Alex Narkiewicz-Jodko</a><br>Director</p></div>
+  <div class="column"><img src="/images/Danny.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/daniel-ts-chen/">Daniel Chen</a><br>Director</p></div>
 </div>
 <div class="row">
   <div class="column"><img src="/images/elene.jpeg" style="height: 7em"/><p>Elene Ivaniashvili<br></p></div>
@@ -49,7 +69,7 @@ permalink: /team
 <div class="row">
   <div class="column"><img src="/images/alan.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alanbidart/">Alan Bidart</a> <br>Director</p></div>
   <div class="column"><img src="/images/Miles.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/Milesmd/">Miles Miller-Dickson</a><br>Director</p></div>
-  <div class="column"><img src="/images/Alex.png" style="height: 7em"/><p>Alex Narkiewicz-Jodko<br></p></div>
+  <div class="column"><img src="/images/Alex.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alex-narkiewicz-jodko/">Alex Narkiewicz-Jodko</a><br>Director</p></div>
 </div>
 <div class="row">
   <div class="column"><img src="/images/lindsey.jpeg" style="height: 7em"/><p><a href="https://www.linkedin.com/in/lindseytensen/">Lindsey Tensen</a><br></p></div>
