@@ -9,7 +9,7 @@ permalink: /team
 <br>
 </p>
 <div class="row">
-  <div class="column"><img src="/images/alex.jpeg" style="height: 7em"/><p>Alex Narkiewicz-Jodko<br>Director</p></div>
+  <div class="column"><img src="/images/Alex_headshot.jpeg" style="height: 7em"/><p>Alex Narkiewicz-Jodko<br>Director</p></div>
   <div class="column"><img src="/images/daniel.jpeg" style="height: 7em"/><p>Daniel Chen<br>Director</p></div>
   <div class="column"><img src="/images/elene.jpeg" style="height: 7em"/><p>Elene Ivaniashvili<br></p></div>
   <div class="column"><img src="/images/yash.jpeg" style="height: 7em"/><p>Yash Lokare<br></p></div>
@@ -18,7 +18,7 @@ permalink: /team
   <div class="column"><img src="/images/harry.jpeg" style="height: 7em"/><p>Harry Wang<br></p></div>
   <div class="column"><img src="/images/shawn.jpeg" style="height: 7em"/><p>Shawn Khanna<br></p></div>
   <div class="column"><img src="/images/alan.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alanbidart/">Alan Bidart</a> <br></p></div>
-  <div class="column"><img src="/images/miles.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/milesmd/">Miles Miller-Dickson</a><br></p></div>
+  <div class="column"><img src="/images/Miles_dilution.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/Miles_dilutionmd/">Miles_dilution Miller-Dickson</a><br></p></div>
 </div>
 
 ## Previous teams
@@ -29,8 +29,8 @@ permalink: /team
 </p>
 <div class="row">
   <div class="column"><img src="/images/alan.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alanbidart/">Alan Bidart</a> <br>Director</p></div>
-  <div class="column"><img src="/images/miles.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/milesmd/">Miles Miller-Dickson</a><br>Director</p></div>
-  <div class="column"><img src="/images/alex.jpeg" style="height: 7em"/><p>Alex Narkiewicz-Jodko<br></p></div>
+  <div class="column"><img src="/images/Miles_dilution.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/Miles_dilutionmd/">Miles_dilution Miller-Dickson</a><br>Director</p></div>
+  <div class="column"><img src="/images/Alex_headshot.jpeg" style="height: 7em"/><p>Alex Narkiewicz-Jodko<br></p></div>
   <div class="column"><img src="/images/daniel.jpeg" style="height: 7em"/><p>Daniel Chen<br></p></div>
 </div>
 <div class="row">
@@ -48,8 +48,8 @@ permalink: /team
 </p>
 <div class="row">
   <div class="column"><img src="/images/alan.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alanbidart/">Alan Bidart</a> <br>Director</p></div>
-  <div class="column"><img src="/images/miles.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/milesmd/">Miles Miller-Dickson</a><br>Director</p></div>
-  <div class="column"><img src="/images/alex.jpeg" style="height: 7em"/><p>Alex Narkiewicz-Jodko<br></p></div>
+  <div class="column"><img src="/images/Miles_dilution.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/Miles_dilutionmd/">Miles_dilution Miller-Dickson</a><br>Director</p></div>
+  <div class="column"><img src="/images/Alex_headshot.jpeg" style="height: 7em"/><p>Alex Narkiewicz-Jodko<br></p></div>
 </div>
 <div class="row">
   <div class="column"><img src="/images/lindsey.jpeg" style="height: 7em"/><p><a href="https://www.linkedin.com/in/lindseytensen/">Lindsey Tensen</a><br></p></div>
@@ -65,7 +65,7 @@ permalink: /team
 </p>
 <div class="row">
   <div class="column"><img src="/images/alan.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alanbidart/">Alan Bidart</a> <br>Founder</p></div>
-  <div class="column"><img src="/images/miles.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/milesmd/">Miles Miller-Dickson</a><br>Founder</p></div>
+  <div class="column"><img src="/images/Miles_dilution.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/Miles_dilutionmd/">Miles_dilution Miller-Dickson</a><br>Founder</p></div>
   <div class="column"><img src="/images/lindsey.jpeg" style="height: 7em"/><p><a href="https://www.linkedin.com/in/lindseytensen/">Lindsey Tensen</a><br>Founder</p></div>
-  <div class="column"><img src="/images/alex.jpeg" style="height: 7em"/><p>Alex Narkiewicz-Jodko<br>Founder</p></div>
+  <div class="column"><img src="/images/Alex_headshot.jpeg" style="height: 7em"/><p>Alex Narkiewicz-Jodko<br>Founder</p></div>
 </div>
