@@ -3,6 +3,15 @@ layout: seminar
 permalink: /team
 ---
 
+<div class="header">
+      <a href="/">
+    <h1>
+    Brown University Quantum Initiative
+    </h1>
+</a>
+</div>
+<hr>
+
 ## Current Team (Fall 2026)
 <p>
 <br>
