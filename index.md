@@ -23,9 +23,9 @@ We celebrate Brown's cross-disciplinary values by bringing together Faculty, Pos
 <h3>Join the Community</h3>
 To meet other members and receive messages about the latest news on Quantum Science and Engineering at Brown, you can [request to join our Community](https://forms.gle/KyELsPGAGB3uEjc2A). Everyone with a Brown email address is welcome!
 
-<h3>Brown Qiskit Fest Fall 2025</h3>
+<!-- <h3>Brown Qiskit Fest Fall 2025</h3>
 This semester, we are proud to working with IBM on hosting Qiskit Fest Fall 2025, a gathering of Brown students who are curious about or interested in quantum computing.
-Learn more about what we are doing by visiting [the official site!](/qiskit)
+Learn more about what we are doing by visiting [the official site!](/qiskit) -->
 
 <h3>Brown Interdisciplinary Quantum Seminar Series</h3>
 We are responsible for the weekly Brown Interdisciplinary Quantum Seminar Series. 
