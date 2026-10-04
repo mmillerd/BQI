@@ -40,11 +40,11 @@ If you are a Brown Graduate student and would like to learn about how you could 
 You can check out a full list of members in our current and past leadership teams by visiting out [Team page](/team).
 
 ### Leadership Team (Fall 2026–Spring 2027)
-<!-- <p>
+<p>
 <br>
-</p> -->
+</p>
 <div class="row">
   <div class="column"><img src="/images/alan.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alanbidart/">Alan Bidart</a> </p></div>
-  <div class="column"><img src="/images/alex.jpeg" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alex-narkiewicz-jodko/">Alex Narkiewicz-Jodko</a></p></div>
-  <div class="column"><img src="/images/miles.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/milesmd/">Miles Miller-Dickson</a></p></div>
+  <div class="column"><img src="/images/Alex_headshot.jpeg" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alex-narkiewicz-jodko/">Alex Narkiewicz-Jodko</a></p></div>
+  <div class="column"><img src="/images/Miles_dilution.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/milesmd/">Miles Miller-Dickson</a></p></div>
 </div>
