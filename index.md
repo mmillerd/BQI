@@ -18,19 +18,19 @@ permalink: /
 <hr>
 
 **The Brown Quantum Initiative (BQI) is the hub for Quantum Science and Engineering research at Brown.** 
-We celebrate Brown's cross-disciplinary values by bringing together Faculty, Postdocs, and Graduate Students across several Departments to discuss novel Quantum research and collaborate on challenging academic projects.
+We celebrate Brown's cross-disciplinary values by bringing together Faculty, Postdocs, and Graduate Students across several Departments to discuss novel quantum research and collaborate on challenging academic projects.
 
 <h3>Join the Community</h3>
-To meet other members and receive messages about the latest news on Quantum Science and Engineering at Brown, you can [<strong>request to join our Community</strong>](https://forms.gle/KyELsPGAGB3uEjc2A). Everyone with a Brown email address is welcome!
+To meet other members and receive messages about the latest news on Quantum Science and Engineering at Brown, you can [<strong>request to join our Community</strong>](https://forms.gle/KyELsPGAGB3uEjc2A). 
 
 <!-- <h3>Brown Qiskit Fest Fall 2025</h3>
 This semester, we are proud to working with IBM on hosting Qiskit Fest Fall 2025, a gathering of Brown students who are curious about or interested in quantum computing.
 Learn more about what we are doing by visiting [the official site!](/qiskit) -->
 
 <h3>Brown Interdisciplinary Quantum Seminar Series</h3>
-We are responsible for the weekly Brown Interdisciplinary Quantum Seminar Series. 
+We are responsible for the Brown Interdisciplinary Quantum Seminar Series. 
 Each seminar features a Brown or external speakers working on at least one of the many fields that intersect in Quantum Science and Engineering. 
-To propose a talk, view the Fall 2024 schedule, or learn more about the seminar series please visit the [<strong>Brown Interdisciplinary Quantum Seminar Series site</strong>](/seminar.html).
+To propose a talk, view our schedule, or learn more about the seminar series please visit the [<strong>Brown Interdisciplinary Quantum Seminar Series site</strong>](/seminar.html).
 Some previous talks can also be found in [our YouTube channel](https://www.youtube.com/@BrownQuantumInitiative).
 
 <h3>Our Student Team</h3>
