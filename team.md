@@ -18,9 +18,8 @@ permalink: /team
 </p>
 <div class="row">
   <div class="column"><img src="/images/Alex.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alex-narkiewicz-jodko/">Alex Narkiewicz-Jodko</a><br>Director</p></div>
-  <div class="column"><img src="/images/Danny.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/daniel-ts-chen/">Daniel Chen</a><br>Director</p></div>
-  <div class="column"><img src="/images/alan.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alanbidart/">Alan Bidart</a></p></div>
-  <div class="column"><img src="/images/Miles.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/Milesmd/">Miles Miller-Dickson</a><br></p></div>
+  <div class="column"><img src="/images/Edward.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/edwardag/">Edward Abel-Guobadia</a><br>Director</p></div>
+  <div class="column"><img src="/images/Danny.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/daniel-ts-chen/">Daniel Chen</a></p></div>
 </div>
 
 ## Previous teams
@@ -31,6 +30,7 @@ permalink: /team
 <div class="row">
   <div class="column"><img src="/images/Alex.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alex-narkiewicz-jodko/">Alex Narkiewicz-Jodko</a><br>Director</p></div>
   <div class="column"><img src="/images/Danny.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/daniel-ts-chen/">Daniel Chen</a><br>Director</p></div>
+  <div class="column"><img src="/images/Edward.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/edwardag/">Edward Abel-Guobadia</a></p></div>
   <div class="column"><img src="/images/alan.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alanbidart/">Alan Bidart</a></p></div>
   <div class="column"><img src="/images/Miles.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/Milesmd/">Miles Miller-Dickson</a><br></p></div>
 </div>
