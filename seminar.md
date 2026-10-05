@@ -36,7 +36,7 @@ Time and Location: All talks are held in **Barus & Holley 190** unless otherwise
 
 | Date | Speaker | Title | Abstract  | Recording|
 |-------|--------|--------|------ |
-| TBD     | TBD | TBD | <details> TBD </details> ||
+| October 22 (Thu)     | James Daniel Whitfield | Why Quantum Chemistry? The Trouble with Fermions | <details> Why has quantum chemistry motivated so much effort across classical and quantum computing? Fermions offer a setting in which indistinguishability, antisymmetry, and interactions combine to create computational challenges. Our work explores the boundary between what is easy and hard, both with and without quantum computational resources. This includes the difference between simulating dynamics and finding ground states, robust qubit representations of fermions, and how orbital choices can change a problem’s apparent difficulty. These results inform how to use a quantum computer, how not to, and which problems are likely to yield in the near and medium term. </details> ||
 | TBD     | TBD | TBD | <details> TBD </details> ||
 | TBD     | TBD | TBD | <details> TBD </details> ||
 | TBD     | TBD | TBD | <details> TBD </details> ||
