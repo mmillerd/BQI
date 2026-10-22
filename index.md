@@ -47,4 +47,5 @@ You can check out a full list of members in our current and past leadership team
   <div class="column"><img src="/images/Danny.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/daniel-ts-chen/">Daniel Chen</a> </p></div>
   <div class="column"><img src="/images/Alex.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/alex-narkiewicz-jodko/">Alex Narkiewicz-Jodko</a></p></div>
   <div class="column"><img src="/images/Edward.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/edwardag/">Edward Abel-Guobadia</a></p></div>
+  <div class="column"><img src="/images/Simon.png" style="height: 7em"/><p><a href="https://www.linkedin.com/in/simon-nirenberg/">Simon Nirenberg</a></p></div>
 </div>
